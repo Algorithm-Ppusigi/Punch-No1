@@ -53,6 +53,6 @@ solved: boj 수 찾기.
 
 solved: 프로그래머스 가장 많이 받은 선물.
 
-dir: added new dir(week2).
+dir: added new dir(day1).
 
-2주차 폴더 생성
+1일차 폴더 생성
